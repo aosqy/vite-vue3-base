@@ -1,6 +1,5 @@
 import Cookies from "js-cookie";
-// cookie保存的天数
-import config from "@/config";
+import config from "@/config"; // cookie保存的天数
 
 const {
   cookieExpires
